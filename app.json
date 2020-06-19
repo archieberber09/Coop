@@ -1,0 +1,25 @@
+{
+  "name": "coopmobile",
+  "displayName": "coopmobile",
+  "expo": {
+    "name": "coopmobile",
+    "slug": "coopmobile",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "COOP designed by Guerilla 360."
+  }
+}
