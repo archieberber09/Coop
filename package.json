@@ -26,7 +26,7 @@
     "expo-splash-screen": "^0.2.3",
     "expo-updates": "~0.2.0",
     "galio-framework": "^0.6.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "logkitty": "^0.7.1",
     "loose-envify": "^1.4.0",
     "object-assign": "^4.1.1",
